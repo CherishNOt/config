@@ -1,2 +1,1 @@
-config:
-  key:"这是来自Git仓库的配置值"
+my.property=helloDev
